@@ -1,6 +1,6 @@
 # optitrack_ros2
 
-This is a simple implementation of a ROS 2 node that exposes Optitrack frames on a ROS 2 `PoseArray` topic. It uses **NatNet SDK 3.1**.
+This is a simple implementation of a ROS 2 node that exposes Optitrack frames on a ROS 2 `PoseArray` topic. It uses **NatNet SDK 3.1** and **Motive 3.1.1**.
 
 ## :clipboard: Build Instructions
 
