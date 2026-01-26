@@ -26,6 +26,11 @@ A simple way to build and manage the environment is to use **RoboStack** (Conda-
   colcon build 
   source install/setup.bash
   ```
+5. Install the NatNet client:
+ ```
+ cd <path-to-repo>/optitrack_ros2/NatNetSDKPython
+ pip install -e .
+ ```
 # 🏃 Run the node
   ```
   source ~/ros2_ws/install/setup.bash
